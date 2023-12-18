@@ -1,0 +1,2 @@
+# LP1-SEMANA2
+Repositorio LP3 2023 SEMANA 2
