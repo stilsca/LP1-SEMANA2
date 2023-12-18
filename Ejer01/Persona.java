@@ -1,5 +1,8 @@
 package Ejer01;
-
+/**
+ *
+ * @author Stilver Scavone Caceres
+ */
 public class Persona {
 
     protected String nombre;
